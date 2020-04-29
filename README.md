@@ -1,17 +1,18 @@
 # Wavect__s_f_comingsoon [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Generic badge](https://img.shields.io/badge/Docker-Compatible-blue.svg)](https://docker.com) [![GitHub license](https://img.shields.io/github/license/wsdt/Wavect__s_f_comingsoon.svg)](https://github.com/wsdt/Wavect__s_f_comingsoon/blob/master/LICENSE) 
 Coming soon page before our website release in 2019.
 
-## What was Wavect?
-Wavect has been a Tech-Startup to offer low-priced and personalized Corporate-Social-Responsibility campaigns to SMEs. We basically built a social-platform where people can solve so-called challenges related to environment-protection, health and solidarity and win prizes based on their interests by companies they love (e.g. exclusive rebates, products, vouchers, ...).
+## What was Wavect®? ("BeKind" from October 2018 - April 2019)
+Wavect® has been a Tech-Startup to offer low-priced and personalized Corporate-Social-Responsibility campaigns to SMEs. We basically built a social-platform where people can solve so-called challenges related to environment-protection, health and solidarity and win prizes based on their interests by companies they love (e.g. exclusive rebates, products, vouchers, ...).
 
-![Image Wavect_Logo](https://github.com/wsdt/Wavect_Base/blob/master/Logo_WAVECT_color_comb-m_200.png)
+![Image Wavect_Logo](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Marketing/Corporate-Identity/01_Logo/color/combination-mark/png/Logo_WAVECT_color_comb-m_200.png)
 
 **Our latest mockup** 
-[![Wavect - Mockup](https://res.cloudinary.com/marcomontalbano/image/upload/v1588156401/video_to_markdown/images/youtube--xrLBjZwvPRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/xrLBjZwvPRU "Wavect - Mockup")
+Click on the image to view a short YouTube-Video.
+[![Wavect - Mockup](files_github/Marketing/Corporate-Identity/15_Prototype/Wireframes_Mockups_Design)](https://youtu.be/xrLBjZwvPRU "Wavect - Mockup")
 
 **Main documents**
-* [Business-Plan]()
-* [One-Pager]()
+* [Business-Plan](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Wavect_BusinessPlan.pdf)
+* [One-Pager](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Konzept_OnePager.pdf)
 
 Social-Media (might not be online anymore):
 * [Facebook](https://www.facebook.com/wavect/)
