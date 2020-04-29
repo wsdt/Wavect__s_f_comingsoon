@@ -6,6 +6,20 @@ Wavect has been a Tech-Startup to offer low-priced and personalized Corporate-So
 
 ![Image Wavect_Logo](https://github.com/wsdt/Wavect_Base/blob/master/Logo_WAVECT_color_comb-m_200.png)
 
+**Our latest mockup** 
+[![Wavect - Mockup](https://res.cloudinary.com/marcomontalbano/image/upload/v1588156401/video_to_markdown/images/youtube--xrLBjZwvPRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/xrLBjZwvPRU "Wavect - Mockup")
+
+**Main documents**
+* [Business-Plan]()
+* [One-Pager]()
+
+Social-Media (might not be online anymore):
+* [Facebook](https://www.facebook.com/wavect/)
+* [LinkedIn](https://www.linkedin.com/company/wavect)
+* [Instagram](https://www.instagram.com/wavect.io)
+* [Github](https://github.com/bekind-austria)
+
+
 ## Contribution [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This project is licensed under GNU V3, so contributions/pull-requests are welcome. All contributors get listed here. 
