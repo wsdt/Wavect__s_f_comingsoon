@@ -15,7 +15,7 @@ Click on the image to view a short YouTube-Video.
 * [Business-Plan](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Wavect_BusinessPlan.pdf)
 * [One-Pager](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Konzept_OnePager.pdf)
 
-Social-Media (might not be online anymore):
+### Social-Media (might not be online anymore)
 * [Facebook](https://www.facebook.com/wavect/)
 * [LinkedIn](https://www.linkedin.com/company/wavect)
 * [Instagram](https://www.instagram.com/wavect.io)
