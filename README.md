@@ -9,7 +9,7 @@ Wavect® has been a Tech-Startup to offer low-priced and personalized Corporate-
 ### Our latest mockup
 Click on the image to view a short YouTube-Video.
 
-[![Wavect - Mockup](files_github/Marketing/Corporate-Identity/15_Prototype/Wireframes_Mockups_Design)](https://youtu.be/xrLBjZwvPRU "Wavect - Mockup")
+[![Wavect - Mockup](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Marketing/Corporate-Identity/15_Prototype/Wireframes_Mockups_Design/20190925_MariellasMockup.png)](https://youtu.be/xrLBjZwvPRU "Wavect - Mockup")
 
 ### Main documents
 * [Business-Plan](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Wavect_BusinessPlan.pdf)
