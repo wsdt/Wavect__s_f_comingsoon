@@ -1,6 +1,7 @@
 # Wavect__s_f_comingsoon [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Generic badge](https://img.shields.io/badge/Docker-Compatible-blue.svg)](https://docker.com) [![GitHub license](https://img.shields.io/github/license/wsdt/Wavect__s_f_comingsoon.svg)](https://github.com/wsdt/Wavect__s_f_comingsoon/blob/master/LICENSE) 
 Coming soon page before our website release in 2019.
 
+
 ## What was Wavect®? ("BeKind" from October 2018 - April 2019)
 Wavect® has been a Tech-Startup to offer low-priced and personalized Corporate-Social-Responsibility campaigns to SMEs. We basically built a social-platform where people can solve so-called challenges related to environment-protection, health and solidarity and win prizes based on their interests by companies they love (e.g. exclusive rebates, products, vouchers, ...).
 
@@ -11,9 +12,12 @@ Click on the image to view a short YouTube-Video.
 
 [![Wavect - Mockup](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Marketing/Corporate-Identity/15_Prototype/Wireframes_Mockups_Design/20190925_MariellasMockup.png)](https://youtu.be/xrLBjZwvPRU "Wavect - Mockup")
 
+
 ### Main documents
+If you should plan to commercialize any of our software or/and business-model, we would greatly appreciate if you get in touch with us!
 * [Business-Plan](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Wavect_BusinessPlan.pdf)
 * [One-Pager](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Konzept_OnePager.pdf)
+
 
 ### Social-Media (might not be online anymore)
 * [Facebook](https://www.facebook.com/wavect/)
