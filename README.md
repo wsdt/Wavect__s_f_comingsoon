@@ -6,11 +6,12 @@ Wavect® has been a Tech-Startup to offer low-priced and personalized Corporate-
 
 ![Image Wavect_Logo](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Marketing/Corporate-Identity/01_Logo/color/combination-mark/png/Logo_WAVECT_color_comb-m_200.png)
 
-**Our latest mockup** 
+### Our latest mockup
 Click on the image to view a short YouTube-Video.
+
 [![Wavect - Mockup](files_github/Marketing/Corporate-Identity/15_Prototype/Wireframes_Mockups_Design)](https://youtu.be/xrLBjZwvPRU "Wavect - Mockup")
 
-**Main documents**
+### Main documents
 * [Business-Plan](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Wavect_BusinessPlan.pdf)
 * [One-Pager](https://github.com/wsdt/Wavect_Base/blob/master/files_github/Konzept_OnePager.pdf)
 
